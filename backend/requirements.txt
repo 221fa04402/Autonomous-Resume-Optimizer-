@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-docx
+docx2txt
+pdfminer.six
+spacy
+openai
+python-dotenv
+docx
